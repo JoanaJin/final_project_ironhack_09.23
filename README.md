@@ -53,3 +53,4 @@ Organize the extracted images into folders based on the sign they represent.
 Deploy a model for real-time recognition, whether it's in a web application, a mobile app, or on a dedicated hardware device.
 
 Link: WLASL dataset - https://www.kaggle.com/datasets/risangbaskoro/wlasl-processed/
+Kick off presentation: https://docs.google.com/presentation/d/1ODZGO5YkviYU7MB-tAzhUuUvtVEzuK69NT41h-v7kZ4/edit?usp=sharing
